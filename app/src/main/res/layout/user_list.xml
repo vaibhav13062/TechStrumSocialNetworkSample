@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/userList_profilePic"
+        android:src="@mipmap/ic_vector">
+    </com.mikhaellopez.circularimageview.CircularImageView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UserName"
+        android:id="@+id/userList_username"
+        android:layout_toRightOf="@+id/userList_profilePic"
+        android:layout_toEndOf="@+id/userList_profilePic"
+        android:layout_marginLeft="10dp"
+        android:textSize="18dp"
+        android:textColor="@color/colorPrimary"
+        android:layout_centerVertical="true"
+        >
+
+    </TextView>
+</RelativeLayout>
