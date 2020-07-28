@@ -11,3 +11,5 @@ THEREE ARE SOME SCREEN SHOTS.
 ![ScreenShot](https://github.com/vaibhav13062/TechStrumSocialNetworkSample/blob/master/Screenshot_20200729-034720.jpg)
 ![ScreenShot](https://github.com/vaibhav13062/TechStrumSocialNetworkSample/blob/master/Screenshot_20200729-034734.jpg)
 ![ScreenShot](https://github.com/vaibhav13062/TechStrumSocialNetworkSample/blob/master/Screenshot_20200729-034742.jpg)
+![ScreenShot](https://github.com/vaibhav13062/TechStrumSocialNetworkSample/blob/master/Screenshot_20200729-035838.jpg)
+![ScreenShot](https://github.com/vaibhav13062/TechStrumSocialNetworkSample/blob/master/Screenshot_20200729-035847.jpg)
